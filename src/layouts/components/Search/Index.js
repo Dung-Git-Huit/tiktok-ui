@@ -53,7 +53,7 @@ function Search() {
         }
     };
 
-    const handleSubmit = (e) => {};
+    // const handleSubmit = (e) => {};
     return (
         <div>
             <HeadlessTippy
